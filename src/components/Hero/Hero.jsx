@@ -10,9 +10,11 @@ const Hero = () => {
           We're passionate about facilitating seamless import-export operations
           and crafting exquisite Raw African Wild Honey. Our company serves as a
           hub for innovation, collaboration, and transparency as we strive to
-          leave a lasting legacy in global commerce and conservation. Join us in
-          exploring cutting-edge solutions and sustainable practices that define
-          the essence of Camara Legacy.
+          leave a lasting legacy in global commerce.
+        </p>
+        <p>
+          Join us in exploring cutting-edge solutions and sustainable practices
+          that define the essence of Camara Legacy.
         </p>
         <button className="btn">Explore more</button>
       </div>
