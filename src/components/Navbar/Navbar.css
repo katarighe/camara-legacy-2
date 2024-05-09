@@ -28,3 +28,8 @@ nav ul li {
   justify-content: space-between;
   width: 30%;
 }
+
+.color-nav {
+  background: darkcyan;
+  transition: 0.5s;
+}
