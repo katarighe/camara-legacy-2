@@ -5,7 +5,7 @@ const Hero = () => {
   return (
     <div className="hero container">
       <div className="hero-text">
-        <h1>Connecting the world through trade and nature's treasures.</h1>
+        <h1>Importing Excellence Exporting Essence</h1>
         <p>
           We're passionate about facilitating seamless import-export operations
           and crafting exquisite Raw African Wild Honey. Our company serves as a
