@@ -4,6 +4,7 @@ import Hero from "./components/Hero/Hero.jsx";
 import Services from "./components/Services/Services.jsx";
 import Title from "./components/Title/Title.jsx";
 import About from "./components/About/About.jsx";
+import Company from "./components/Company/Company.jsx";
 
 const App = () => {
   return (
@@ -15,6 +16,7 @@ const App = () => {
         <Services />
         <About />
         <Title subTitle='Company' title='Activity Photos'/>
+        <Company />
       </div>
     </div>
   );
