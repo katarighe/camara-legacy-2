@@ -10,7 +10,7 @@ const App = () => {
       <Navbar />
       <Hero />
       <div className="container">
-        <Title />
+        <Title subTitle='Our Services' title='What We Offer'/>
         <Services />
       </div>
     </div>
