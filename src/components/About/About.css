@@ -29,8 +29,9 @@
 
 .about h3 {
   font-weight: 600;
-  font-size: 16px;
+  font-size: 20px;
   color: #212ea0;
+  text-transform: uppercase;
 }
 
 .about h2 {
