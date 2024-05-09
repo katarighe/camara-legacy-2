@@ -8,7 +8,7 @@ const Hero = () => {
       <div className="hero-text">
         <h1>Importing Excellence Exporting Essence</h1>
         <p>
-          We're passionate about facilitating seamless import-export operations
+          We&apos;re passionate about facilitating seamless import-export operations
           and crafting exquisite Raw African Wild Honey. Our company serves as a
           hub for innovation, collaboration, and transparency as we strive to
           leave a lasting legacy in global commerce.
