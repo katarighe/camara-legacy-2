@@ -11,14 +11,14 @@ const About = () => {
         <img src={play_icon} alt="" />
       </div>
       <div className="about-right">
-        <h3>About Camara Legacy Sdn Bhd</h3>
+        <h3>About Us</h3>
         <h2>Importing Excellence, Exporting Essence</h2>
         <p>
-          At Camara Legacy, we blend tradition with modernity to offer a diverse
-          array of services rooted in African heritage. With a commitment to
-          integrity and excellence, we specialize in facilitating import and
-          export transactions, sourcing and selling raw African wild honey, and
-          providing wholesale furniture sales that showcase the rich
+          At Camara Legacy Sdn Bhd, we blend tradition with modernity to offer a
+          diverse array of services rooted in African heritage. With a
+          commitment to integrity and excellence, we specialize in facilitating
+          import and export transactions, sourcing and selling raw African wild
+          honey, and providing wholesale furniture sales that showcase the rich
           craftsmanship of the continent.
           <p>
             Our mission is to bridge cultures, promote sustainability, and
@@ -26,8 +26,8 @@ const About = () => {
           </p>
         </p>
         <p>
-          Camara Legacy is dedicated to delivering quality products and services
-          while upholding ethical business practices and environmental
+          Camara Legacy Sdn Bhd is dedicated to delivering quality products and
+          services while upholding ethical business practices and environmental
           responsibility.
         </p>
         <p>
