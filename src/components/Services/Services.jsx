@@ -14,7 +14,7 @@ const Services = () => {
         <img src={service_1} alt="" />
         <div className="caption">
           <img src={service_icon_1} alt="" />
-          <p>Import / Export Business</p>
+          <p>Import / Export</p>
         </div>
       </div>
       <div className="service">
@@ -28,7 +28,7 @@ const Services = () => {
         <img src={service_3} alt="" />
         <div className="caption">
           <img src={service_icon_3} alt="" />
-          <p>Wholesale Furniture Business</p>
+          <p>Wholesale Furniture</p>
         </div>
       </div>
     </div>
