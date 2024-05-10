@@ -1,0 +1,28 @@
+.company {
+  margin: 80px auto;
+  width: 90%;
+  text-align: center;
+}
+
+.gallery {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 40px;
+}
+
+.gallery img {
+  width: 23%;
+  border-radius: 10px;
+}
+
+.btn.dark-btn {
+  background-color: #ee82ee;
+  color: #000;
+  padding: 10px 20px;
+  border-radius: 5px;
+  text-transform: uppercase;
+  font-weight: bold;
+  cursor: pointer;
+  transition: all 0.3s;
+}
