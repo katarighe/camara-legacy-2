@@ -7,7 +7,8 @@ export default defineConfig({
     alias: {
       // Ensure that Vite resolves SVG imports correctly
       // Adjust the path if necessary
-      '@assets': '/src/assets',
+      '@assets': 'src/assets', // Adjusted path without leading slash
     },
   },
+  assetsInclude: ['**/*.JPG'], // Add assetsInclude option to handle JPG files
 });
