@@ -16,7 +16,7 @@ const Hero = () => {
           commerce. Join us in exploring cutting-edge solutions and sustainable
           practices that define the essence of Camara Legacy.
         </p>
-        <button className="btn">
+        <button className="btn dark-btn">
           Explore more <img src={dark_arrow} />
         </button>
       </div>
