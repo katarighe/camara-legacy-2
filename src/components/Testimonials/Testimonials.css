@@ -14,4 +14,10 @@
   width: 50px;
   border-radius: 50%;
   cursor: pointer;
+  background: #8a2be2;
+}
+
+.back-btn {
+  right: auto;
+  left: 0;
 }
