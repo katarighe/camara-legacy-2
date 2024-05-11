@@ -21,7 +21,7 @@ const App = () => {
         <Company />
         <Title subTitle='Testimonals' title='What Customers are Saying'/>
         <Testimonials />
-        <Title subTitle='Contact Us' title='Get To Know Our Company'/>
+        <Title subTitle='Contact Us' title='Get In Touch With our Company'/>
         <Contact />
       </div>
     </div>
