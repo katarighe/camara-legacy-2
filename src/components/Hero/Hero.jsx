@@ -7,8 +7,7 @@ const Hero = () => {
     <div className="hero container">
       <div className="hero-text">
         <h1>
-          We&apos;re passionate about facilitating seamless import-export
-          operations
+          We&apos;re passionate about facilitating seamless business operations
         </h1>
         <p>
           Our company serves as a hub for innovation, collaboration, and
