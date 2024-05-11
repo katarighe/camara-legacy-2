@@ -26,7 +26,7 @@ const Contact = () => {
             Malaysia
           </li>
           <li>
-            <b>Opening Hours:</b> Monday to Sunday from 10 AM to 6 PM
+            <b>Opening Hours:</b> 10 AM to 6 PM (Monday to Sunday)
           </li>
         </ul>
       </div>
