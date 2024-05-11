@@ -1,11 +1,12 @@
 import React from "react";
 import "./Contact.css";
+import msg_icon from '../../assets/images/msg-icon.png'
 
 const Contact = () => {
   return (
     <div className="contact">
       <div className="contact-col">
-        <h3>Send Us A Message</h3>
+        <h3>Send Us A Message <img src={msg_icon} alt="" /></h3>
         <p>
           Welcome to Camara Legacy! We specialize in import/export services,
           offering premium raw African wild honey and wholesale furniture.
