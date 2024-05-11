@@ -4,6 +4,7 @@ import msg_icon from "../../assets/images/msg-icon.png";
 import mail_icon from '../../assets/images/mail-icon.png';
 import phone_icon from '../../assets/images/phone-icon.png';
 import location_icon from '../../assets/images/location-icon.png';
+import clock_icon from '../../assets/images/clock-icon.png';
 
 const Contact = () => {
   return (
@@ -21,13 +22,13 @@ const Contact = () => {
           details below. We look forward to hearing from you!
         </p>
         <ul>
-          <li> <img src={msg_icon} /> info@camara-legacy.com.my</li>
-          <li> <img src={phone_icon} /> +60 17-542 3230 (Malaysia) <br /> +224 610 23 92 31 (Guinea)</li> 
+          <li> <img src={mail_icon} /> info@camara-legacy.com.my</li>
+          <li> <img src={phone_icon} /> +60 17 542 3230 (Malaysia) <br /> +224 610 23 92 31 (Guinea)</li> 
           <li> <img src={location_icon} />
             104, Jln 1, Taman Industri Bolton, 68100 Batu Caves, Selangor,
             Malaysia
           </li>
-          <li>
+          <li> <img src={clock_icon} />
             <b>Opening Hours:</b> 10 AM to 6 PM (Monday to Sunday)
           </li>
         </ul>
