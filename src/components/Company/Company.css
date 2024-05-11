@@ -17,6 +17,17 @@
 }
 
 .btn.dark-btn {
+  background-color: #8b0000;
+  color: #fff;
+  padding: 10px 20px;
+  border-radius: 5px;
+  text-transform: uppercase;
+  font-weight: bold;
+  cursor: pointer;
+  transition: all 0.3s;
+}
+
+.btn.color-btn {
   background-color: #ee82ee;
   color: #000;
   padding: 10px 20px;
