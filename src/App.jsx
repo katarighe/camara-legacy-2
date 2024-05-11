@@ -6,6 +6,7 @@ import Title from "./components/Title/Title.jsx";
 import About from "./components/About/About.jsx";
 import Company from "./components/Company/Company.jsx";
 import Testimonials from "./components/Testimonials/Testimonials.jsx";
+import Contact from "./components/Contact/Contact.jsx";
 
 const App = () => {
   return (
@@ -21,6 +22,7 @@ const App = () => {
         <Title subTitle='Testimonals' title='What Customers are Saying'/>
         <Testimonials />
         <Title subTitle='Contact Us' title='Get To Know Our Company'/>
+        <Contact />
       </div>
     </div>
   );
