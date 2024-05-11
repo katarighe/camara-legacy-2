@@ -15,7 +15,7 @@ const Company = () => {
         <img src={gallery_3} alt="" />
         <img src={gallery_4} alt="" />
       </div>
-      <button className='btn dark-btn'>See more <img src={white_arrow} alt="" /></button>
+      <button className='btn color-btn'>See more <img src={white_arrow} alt="" /></button>
     </div>
   )
 }
