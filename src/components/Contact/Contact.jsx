@@ -35,15 +35,15 @@ const Contact = () => {
         </ul>
       </div>
       <div className="contact-col">
-        <div className="form">
-            <label>Your Name</label>
-            <input type="text" name="name" placeholder="Enter your name" required/>
-            <label>Your Phone Number</label>
-            <input type="tel" name="phone" placeholder="Enter your mobile number" required/>
-            <label>Your Message</label>
-            <textarea name="message" rows="6" placeholder="Enter your message here" required></textarea>
-            <button type="submit" className="btn dark-btn">Submit Form <img src={white_arrow} alt="" /></button>
-        </div>
+        <form>
+            <label>Name</label>
+            <input type="text" name='name' placeholder='Enter your name' required/>
+            <label>Phone Number</label>
+            <input type="tel" name='phone' placeholder='Enter your mobile number' required/>
+            <label>Message</label>
+            <textarea name="message" rows="6" placeholder='Enter your message here' required></textarea>
+            <button type='submit' className="btn dark-btn">Submit Form <img src={white_arrow} /></button>
+        </form>
       </div>
     </div>
   );
