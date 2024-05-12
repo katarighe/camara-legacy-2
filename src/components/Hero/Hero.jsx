@@ -1,6 +1,6 @@
 import React from "react";
 import "./Hero.css";
-import dark_arrow from "../../assets/images/dark-arrow.png";
+import white_arrow from "../../assets/images/white-arrow.png";
 
 const Hero = () => {
   return (
@@ -16,7 +16,7 @@ const Hero = () => {
           practices that define the essence of Camara Legacy.
         </p>
         <button className="btn dark-btn">
-          Explore more <img src={dark_arrow} />
+          Explore more <img src={white_arrow} />
         </button>
       </div>
     </div>
