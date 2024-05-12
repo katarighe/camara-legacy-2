@@ -69,6 +69,7 @@ const Contact = () => {
             <textarea name="message" rows="6" placeholder='Enter your message here' required></textarea>
             <button type='submit' className="btn dark-btn">Submit Form <img src={white_arrow} /></button>
         </form>
+        <br />
         <span>{result}</span>
       </div>
     </div>
